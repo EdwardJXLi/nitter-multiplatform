@@ -1,3 +1,5 @@
+## NOTE: [Nitter](https://github.com/zedeus/nitter) now officially supports ARM images on [Docker Hub](https://hub.docker.com/r/zedeus/nitter/tags).
+
 # Nitter
 
 [![Test Matrix](https://github.com/zedeus/nitter/workflows/Tests/badge.svg)](https://github.com/zedeus/nitter/actions/workflows/run-tests.yml)
